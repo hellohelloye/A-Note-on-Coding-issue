@@ -1,4 +1,4 @@
-# A-Note-on-Coding-issue
+# A-Note-on-Coding-issues
 This repository mainly focus on solution for tiny little coding issue that similar to stack overflow question post
 
 ######1.Converting UnixMilli TimeStamp: timeStamp = 1458162392920
@@ -16,3 +16,4 @@ b. UnixMilliseconds back to current date
     return  [dateFormatter stringFromDate:date];
 }
 ```
+#####2. Alamofire 3.0 & SwiftJSON 2.3.0
